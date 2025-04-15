@@ -34,14 +34,14 @@ El programa solicita al usuario que ingrese un exponente entero. Luego, realiza 
   4. **Retorno:** Retornara el factorial de `n`.
 
   **int coeficiente(int x, int y)**
-  1. **Descripción:** Calcula el coeficiente binomial $\binom{x}{y}$, que representa el número de formas de elegir `y` elementos de un conjunto de `x` elementos.
+  1. **Descripción:** Calcula el coeficiente binomial.
   2. **Parámetros:**
         - `x`: El valor de i.
         - `y`: El valor de j.
     * **Retorno:** El valor del coeficiente de binomio binomial.
 
 ## Ejemplo
-Binomio con exponente: 7
+Binomio con exponente 7: 
  1
  1 1
  1 2 1
