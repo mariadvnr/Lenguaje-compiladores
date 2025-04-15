@@ -42,15 +42,6 @@ El programa solicita al usuario que ingrese un exponente entero. Luego, realiza 
 
 ## Ejemplo
 Binomio con exponente 7: 
- 1
- 1 1
- 1 2 1
- 1 3 3 1
- 1 4 6 4 1
- 1 5 10 10 5 1
- 1 6 15 20 15 6 1
- 1 7 21 35 35 21 7 1
-
 El resultado del binomio (considerando (a+b)^7) es:
 x^7 + 7x^6 + 21x^5 + 35x^4 + 35x^3 + 21x^2 + 7x^1 + 1
 
